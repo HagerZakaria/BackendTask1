@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "fname": "Hager",
+        "lname": "Zakaria",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 2,
+        "fname": "Tasneem",
+        "lname": "yahia",
+        "age": 25,
+        "city": "alex"
+    },
+    {
+        "id": 3,
+        "fname": "Aya",
+        "lname": "Ahmed",
+        "age": 32,
+        "city": "giza"
+    },
+    {
+        "id": 4,
+        "fname": "May",
+        "lname": "mohmed",
+        "age": 35,
+        "city": "minia"
+    },
+    {
+        "id": 6,
+        "fname": "ahmed",
+        "lname": "kareem",
+        "age": 27,
+        "city": "fayom"
+    }
+]
